@@ -8,9 +8,9 @@ label{
 }
 
 input, textarea {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     border: 1px solid #e6e6e6;
-    background: #fff;
+    background: #f4f4f4;
     padding: 1em;
     transition: all 0.3s ease-in-out;
     width: 100%;
@@ -24,11 +24,11 @@ textarea {
 }
 
 button{
-    background: #000;
+    background: #575757;
     border: 0;
     height: 55px;
     width: 150px;
-    border-radius: 0 35px;
+
     color: white;
     font-weight: 400;
     font-size: 14px;
@@ -38,6 +38,6 @@ button{
 
 button:hover{
     transition: all .2s ease-out;
-    border-radius: 35px 0 ;
+
     cursor: pointer;
 }
