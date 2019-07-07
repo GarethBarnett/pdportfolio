@@ -1,0 +1,70 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: #575757;
+    // transition:all .5s ease-in-out;
+}
+
+a {
+    text-decoration: none;
+    color: #111;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #111;
+}
+
+
+
+* {
+    // transition: all .5s ease-out;
+  }
+
+
+h1{
+    font-size: 30px;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: 100;
+    margin-bottom: 20px; 
+}
+
+h4{
+    font-size: 14px;
+}
+
+p{
+    font-size: 14px;
+    line-height: 1.8em;
+}
+
+
+.site-container{
+    width: 1100px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+@media all and (max-width: 1200px) {
+
+    
+    
+    
+    .site-container{
+        width: 90%;
+        margin: 0 auto;
+    }
+    
+	
+}
