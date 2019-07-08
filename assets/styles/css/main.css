@@ -17,7 +17,10 @@ h2 {
   font-size: 24px;
   text-transform: uppercase;
   font-weight: 100;
-  margin-bottom: 20px; }
+  margin-bottom: 40px; }
+
+h3 {
+  font-size: 20px; }
 
 h4 {
   font-size: 14px; }
@@ -127,6 +130,9 @@ nav {
   .panel-image img:hover {
     transform: scale(1.08); }
 
+.work-single-container h4 {
+  margin-bottom: 20px;
+  font-weight: 700; }
 .work-single-container p {
   margin-bottom: 50px; }
 
@@ -202,7 +208,7 @@ footer {
   grid-template-columns: repeat(2, 1fr);
   height: 50px;
   align-self: center;
-  margin-top: 20px;
+  margin-top: 25px;
   border-top: 1px solid rgba(0, 0, 0, 0.12);
   margin-bottom: 80px; }
 
