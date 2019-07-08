@@ -1,11 +1,9 @@
 footer{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-
     height: 50px;
-    // color: white;
     align-self: center;
-    margin-top: 20px;
+    margin-top: 25px;
     border-top: 1px solid rgba(0,0,0,.12);; 
     margin-bottom: 80px;
 }
@@ -24,12 +22,10 @@ footer{
     a{
         font-size: 20px;
         margin-left: 15px;
-        // color: white;
         color: #575757;
         cursor: pointer;
     }
 
-    
 
    
 }
